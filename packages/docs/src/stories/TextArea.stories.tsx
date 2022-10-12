@@ -1,4 +1,4 @@
-import { Box, Text, TextArea, TextAreaProps } from '@ignite-ui/react'
+import { Box, Text, TextArea, TextAreaProps } from '@joaoalberto-design-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {
