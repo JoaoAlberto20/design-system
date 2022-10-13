@@ -108,6 +108,6 @@ A documentação do design system está disponível aqui:  https://joaoalberto20
 
 This project is under the license [MIT](./LICENSE).
 
-Made with ❤️ by Lidiane Diniz  [Get in Touch!](https://www.linkedin.com/in/lidiane-cristina-diniz)
+Made with ❤️ by João Alberto [Get in Touch!](https://www.linkedin.com/in/joaoalbertosvcode)
 
 ---
