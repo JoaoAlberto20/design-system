@@ -69,7 +69,6 @@ Projeto desenvolvido com intuito de criar um design system e uma documentação 
 ```bash
 
 # Clone este repositório
-$ https://github.com/LidianeDiniz/Frontend_foodExplorer.git
 
 # Acesse o terminal do seu sistema operacional e escolha uma pasta de sua preferencia
 # cole o comando abaixo no terminal
